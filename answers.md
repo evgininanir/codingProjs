@@ -19,7 +19,7 @@ Cevap : Average case
 
 
 ##  Binary search tree Projesi
-kök 7 dir.  Soldaki eleman node'tan küçük sağdakiler ndoe'tan büyük olarak belirlenir.
+kök 5 dir.  Soldaki eleman node'tan küçük sağdakiler ndoe'tan büyük olarak belirlenir.
 
 ##  Merge Sort Projesi
 [16,21,11] - [8,12,22]
